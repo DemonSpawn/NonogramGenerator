@@ -1,6 +1,8 @@
 [package]
-name = "NonogramGenerator"
+name = "nonogram_generator"
 version = "0.1.0"
 authors = ["demon"]
 
 [dependencies]
+image = "*"
+piston_window = "0.70.0"
